@@ -245,7 +245,7 @@ Review the sanitized file before sharing to ensure it meets your organization's 
 
 ---
 
-**Built with ❤️ for the network analysis community** — [github.com/netwho/PacketSanitizer](https://github.com/netwho/PacketSanitizer)
+**Built with ❤️ for the network analysis community** — [github.com/netwho/PacketSanitizer](https://github.com/netwho/PacketSanitizerPro)
 
 ## License
 
